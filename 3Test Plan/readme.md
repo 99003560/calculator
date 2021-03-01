@@ -14,7 +14,7 @@
 
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
-|  1 |  Select addition or subtraction | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
+|  1 |  Select addition or subtraction | Enter the case number to select operation  | Will select the operation based on case number|enter int or float| Requirement based |
 |  2 |  Input numbers for addition | Correct number as input  |  Will show the correct sum of the numbers inputted | Requirement based |
 |  3 | Input numbers for subtraction  | Correct number as input  | Will show the correct difference of the numbers inputted   | Requirement based |
 |  4 | First number for addition is negative  | Correct number as input  | Will show the correct result | Scenario based |
