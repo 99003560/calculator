@@ -10,7 +10,7 @@ Req_05 |Prime number              |A positive integer that is not divisible with
 Req_06 |Exponential function      |An exponential function can be described as a growth or decay function that is in the form of e^x|
 Req_07 |Modulus function      |An modulus function can be described as the remainder of the division |
 Req_08 |Squareroot function      |An squareroot function can be described as the squareroot of a number |
-
+Req_09 | Conversion function     |inch to centi, centi to inch, km to M , m to km|
 
 
 Low level requirements
