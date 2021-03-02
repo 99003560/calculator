@@ -40,15 +40,15 @@
 |  9 | More than two numbers for division  | Correct number as input  | Will show the correct result  | Boundary condition |
 
 
-### Logical Operation Test Plan
+### Conversional Operation Test Plan
 
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
-|  1 |  Select logical operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
-|  2 |  Input bits for logical AND  | Correct bits as input  | Will show the correct result  | Requirement based | 
-|  3 | Input bits for logical OR  | Correct bits as input  | Will show the correct result   | Requirement based |
-|  4 | Input bits for logical NAND | Correct bits as input  | Will show the correct result | Requirement based |
-|  5 | Input bits for logical NOR | Correct number as input  | Will show the correct result  | Requirement based |
+|  1 |  Select Conversional operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
+|  2 |  Input bits for centi  | Correct bits as input  | Will show the correct result  | Requirement based | 
+|  3 | Input bits for KM  | Correct bits as input  | Will show the correct result   | Requirement based |
+|  4 | Input bits for M | Correct bits as input  | Will show the correct result | Requirement based |
+|  5 | Input bits for inch | Correct number as input  | Will show the correct result  | Requirement based |
 
 ### Exponential Operation Test Plan
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
