@@ -121,7 +121,7 @@ void test_square(void) {
 
 void test_prime(void) {
   CU_ASSERT(1 == prime(89));
-  CU_ASSERT(-1 == prime(-12))
+  CU_ASSERT(-1 == prime(-12));
   
   /* Dummy fail*/
   CU_ASSERT(0 == prime(97));
